@@ -66,7 +66,7 @@ main {
   flex-direction: column;
   align-items: center;
   margin-top: 100px;
-  transform: rotateX(-15deg) skew(5deg);
+  transform: rotateX(-20deg) skew(5deg);
   background: rgba(184, 180, 180, 0.4);
   border-radius: 10px;
 }
